@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">الأسم</string>
+    <string name="Welcome_msg">اهلا بك فى تطبيق مدوانتى</string>
+    <string name="email">البريد الالكترونى</string>
+    <string name="phone">التليفون</string>
+    <string name="register">تسجيل دخول</string>
+    <string name="add_note">اضف مدونة</string>
+    <string name="Add_a_new_category">اضف عنوان</string>
+    <string name="edit">تعديل</string>
+    <string name="edit_your_phone">تعديل الهاتف</string>
+    <string name="edit_your_emial">تعديل البريد</string>
+    <string name="edit_your_name">تعديل الاسم</string>
+    <string name="edit_your_data">تعديل البيانات</string>
+    <string name="edit_profile">تعديل البروفايل</string>
+    <string name="delete_profile">حذف البروفايل</string>
+</resources>

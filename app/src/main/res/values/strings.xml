@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name" translatable="false">Notes</string>
+    <string name="Welcome_msg">Welcome toNotes App</string>
+    <string name="name">NAME</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="register">Register</string>
+    <string name="add_note">Add Note</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="Add_a_new_category">Add_new_category</string>
+    <string name="edit">Edit</string>
+    <string name="edit_your_phone">Edit your phone</string>
+    <string name="edit_your_emial">Edit your email</string>
+    <string name="edit_your_name">Edit your name</string>
+    <string name="edit_your_data">Edit your data</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="delete_profile">Delelte profile</string>
+
+
+    <string-array name="notes_array">
+        <item>Android</item>
+        <item>C++</item>
+        <item>WEB</item>
+        <item>JAVA</item>
+        <item>Jupiter</item>
+        <item>ML</item>
+        <item>AWS</item>
+    </string-array>
+</resources>
